@@ -32,7 +32,7 @@ O Solari é um app desenvolvido em React Native que permite que **o usuário sai
 
 ```Git Bash
 git clone https://github.com/dev1jsplima/solari.git #clona o repositório
-cd solari-app
+cd solari-app #entra na pasta
 ```
 
 ### 2. Instale as dependências
