@@ -1,19 +1,19 @@
 # Solari 🌤️
 O Solari é um app desenvolvido em React Native que permite que **o usuário saiba o clima de qualquer cidade** digitando no campo de busca (ex: Barueri) 
 
-<img src="assets/img/solari.png" width= 300px >
+<img src="assets/img/logo.png" width= 300px >
 
 # Telas 💻
 
 ## Tela principal (sem pesquisa)
 
-<img src="" >
+<img src="assets/img/Tela1.png" >
 
 ## Tela principal (após pesquisa)
 
-<img src="" >
+<img src="assets/img/Tela2.png" >
 
-## Estrutura
+## Estrutura 🗂️
 
 ```bash
   solari-app/
@@ -22,12 +22,12 @@ O Solari é um app desenvolvido em React Native que permite que **o usuário sai
 │   └── img/
 │       ├── logo.png          # Logo do app
 │       ├── solari.png        # Logo utilzada no app
-│       ├── Home.jpg          # Imagem da tela inicial (para o README)
-│       └── Detalhes.jpg      # Imagem da tela com os dados (para o README)
+│       ├── Tela1.png         # Imagem da tela inicial (para o README)
+│       └── Detalhes.png      # Imagem da tela inicial com os dados (para o README)
 └── package.json              
 ```
 
-## Passo a passo 
+## Passo a passo 📝
 
 ### 1. Clonar o repositório
 
@@ -53,7 +53,7 @@ npx expo-start
 
 - Você pode escanear o QR Code caso queira testar o projeto no celular (precisa instalar o app Expo Go), mas se quiser também pode acessar o app pelo navegador (http://localhost:8081)
 
-# Ferramentas utilizadas 
+# Ferramentas utilizadas 🔧
 
 - [React Native](https://reactnative.dev/) <img src="">
 - [Expo](https://expo.dev/) <img src="">
