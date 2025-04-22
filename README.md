@@ -55,7 +55,7 @@ npx expo-start
 
 # Ferramentas utilizadas 🔧
 
-- [React Native](https://reactnative.dev/) <img align="center" alt="Josue-RN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-- [Expo](https://expo.dev/) <img src="">
+- [React Native](https://reactnative.dev/) <img align="center" alt="Josue-RN" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+- [Expo](https://expo.dev/) <img align="center" alt="Josue-Expo" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
 - [Weather API](https://www.weatherapi.com/)
   OBS: Infelizmente, a API usada só aceita nomes de cidade em inglês 😔
