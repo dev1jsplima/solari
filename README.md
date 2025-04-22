@@ -7,7 +7,7 @@ O Solari é um app desenvolvido em React Native que permite que **o usuário sai
 
 ## Tela principal (sem pesquisa)
 
-<img src="assets/img/Tela1.png" >
+<img src="assets/img/Tela1..png" >
 
 ## Tela principal (após pesquisa)
 
