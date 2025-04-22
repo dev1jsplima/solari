@@ -3,17 +3,17 @@ O Solari é um app desenvolvido em React Native que permite que **o usuário sai
 
 <img src="" style="width: 200px; height: 120px">
 
-#Telas 💻
+# Telas 💻
 
-##Tela principal (sem pesquisa)
-
-<img src="" >
-
-##Tela principal (após pesquisa)
+## Tela principal (sem pesquisa)
 
 <img src="" >
 
-##Estrutura
+## Tela principal (após pesquisa)
+
+<img src="" >
+
+## Estrutura
 
 ```bash
   solari-app/
@@ -26,16 +26,16 @@ O Solari é um app desenvolvido em React Native que permite que **o usuário sai
 └── package.json              
 ```
 
-##Passo a passo 
+## Passo a passo 
 
-###1. Clonar o repositório
+### 1. Clonar o repositório
 
 ```Git Bash
 git clone https://github.com/dev1jsplima/solari.git #clona o repositório
 cd solari-app
 ```
 
-###2. Instale as dependências
+### 2. Instale as dependências
 - Saia do Git Bash e dentro da pasta, na barra de endereço, digite cmd
 
 ```cmd
@@ -43,7 +43,7 @@ npm install
 REM Instala todas as dependências necessárias
 ```
 
-###3. Execute 
+### 3. Execute 
 - Com o Expo instalado:
 
 ```cmd
@@ -52,9 +52,9 @@ npx expo-start
 
 -Você pode escanear o QR Code caso queira testar o projeto no celular (precisa instalar o app Expo Go), mas se quiser também pode acessar o app pelo navegador (http://localhost:8081)
 
-#Ferramentas utilizadas 
+# Ferramentas utilizadas 
 
 - [React Native](https://reactnative.dev/) <img src="">
 - [Expo](https://expo.dev/) <img src="">
 - [Weather API](https://www.weatherapi.com/)
-  OBS: Infelizmente, a API usada só aceita nomes de cidade em inglês 🙁
+  OBS: Infelizmente, a API usada só aceita nomes de cidade em inglês 😔
