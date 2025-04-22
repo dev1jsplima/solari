@@ -50,7 +50,7 @@ REM Instala todas as dependências necessárias
 npx expo-start
 ```
 
--Você pode escanear o QR Code caso queira testar o projeto no celular (precisa instalar o app Expo Go), mas se quiser também pode acessar o app pelo navegador (http://localhost:8081)
+- Você pode escanear o QR Code caso queira testar o projeto no celular (precisa instalar o app Expo Go), mas se quiser também pode acessar o app pelo navegador (http://localhost:8081)
 
 # Ferramentas utilizadas 
 
