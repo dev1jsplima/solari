@@ -1,7 +1,7 @@
 # Solari 🌤️
 O Solari é um app desenvolvido em React Native que permite que **o usuário saiba o clima de qualquer cidade** digitando no campo de busca (ex: Barueri) 
 
-<img src="assets/img/solari.png" style="width: 200px; height: 120px">
+<img src="assets/img/solari.png" width= 300px >
 
 # Telas 💻
 
