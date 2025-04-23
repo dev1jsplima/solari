@@ -23,7 +23,7 @@ O Solari é um app desenvolvido em React Native que permite que **o usuário sai
 │       ├── logo.png          # Logo do app
 │       ├── solari.png        # Logo utilzada no app
 │       ├── Tela1.png         # Imagem da tela inicial (para o README)
-│       └── Detalhes.png      # Imagem da tela inicial com os dados (para o README)
+│       └── Tela2.png      # Imagem da tela inicial com os dados (para o README)
 └── package.json              
 ```
 
